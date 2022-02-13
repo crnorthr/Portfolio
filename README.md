@@ -11,5 +11,5 @@ My name is Chris Northrup and I am a software developer from New York. I work wi
 
 Links:
 
-[GitHub](https://github.com/crnorthr)
-[LinkedIn](https://www.linkedin.com/in/chris-northrup-a2749182/)
+* [GitHub](https://github.com/crnorthr)
+* [LinkedIn](https://www.linkedin.com/in/chris-northrup-a2749182/)
